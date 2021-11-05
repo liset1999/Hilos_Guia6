@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hilos_Guia6</string>
+
+    <string name="audio">Reproducir Audio</string>
+    <string name="data">Mis Datos</string>
+
+    <string name="miNombre">Liset Maricela Saldaña Martinez</string>
+    <string name="code">SM18-I04-001</string>
+
+    <string name="Start">Iniciar</string>
+    <string name="Restart">Reiniciar</string>
+</resources>
